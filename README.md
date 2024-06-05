@@ -19,7 +19,7 @@ Pensando en la cuestión de imágenes para generar un efecto estroboscópico, po
 - Mothlight (1963), Stan Brakhage | 3’ | [Link](https://youtu.be/S5P5vkegmvU)
 
 ## El algoritmo
-El patch está basado en un sistema que utiliza Gem para visualizar un video MP4 utilizando el componente pix_movie, que a través de un metrónomo controlado por BPM va generando saltos de frames previos (está seteado en -20 por default)
+El patch está basado en un sistema que utiliza Gem para visualizar un video MP4 utilizando el componente `pix_movie`, que a través de un metrónomo controlado por BPM va generando saltos de frames previos (está seteado en -20 por default)
 
 ## Proximas etapas
 Este proyecto es una simple prueba, pero a futuro sería ideal agregarle nuevos features que permitan crear piezas visuales de forma mas comoda y rapida, entre ellos:
@@ -31,4 +31,4 @@ Este proyecto es una simple prueba, pero a futuro sería ideal agregarle nuevos 
 ## Instalacion
 La versión de Pure Data en la que fue esto testeado es la `0.52.2`, pero debería funcionar en versiones futuras que soporten `Gem` sin problema.
 
-## [Video DEMO]()
+## [Video DEMO](https://youtu.be/BZhYhMdDeig)
