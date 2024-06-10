@@ -26,6 +26,7 @@ Este proyecto es una simple prueba, pero a futuro sería ideal agregarle nuevos 
 - UI intuitiva que permite elegir el archivo y la manipulación de parámetros a través de sliders
 - Opción para obtener un render del output del procesamiento en un archivo nuevo
 - Posibilidad de cargar múltiples videos e iterar entre ellos
+- Adaptacion a resolucion de aspecto automatica
 - Sincronización vía BPM/OSC/MIDI
 
 ## Instalacion
