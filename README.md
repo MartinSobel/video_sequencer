@@ -27,6 +27,7 @@ Este proyecto es una simple prueba, pero a futuro sería ideal agregarle nuevos 
 - Opción para obtener un render del output del procesamiento en un archivo nuevo
 - Posibilidad de cargar múltiples videos e iterar entre ellos
 - Adaptacion a resolucion de aspecto automatica
+- Carga y procesamiento de audio del video
 - Sincronización vía BPM/OSC/MIDI
 
 ## Instalacion
