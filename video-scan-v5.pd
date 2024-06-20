@@ -1,4 +1,4 @@
-#N canvas 993 241 598 416 12;
+#N canvas 599 230 598 416 12;
 #X declare -lib Gem;
 #X msg 24 87 destroy;
 #X obj 232 178 f;
@@ -38,6 +38,7 @@
 #X msg 14 57 create \, 1;
 #X obj 347 165 metro 0.5 140 permin;
 #X obj 14 341 rectangle 16 9;
+#X obj 6 364 pix_info;
 #X connect 0 0 34 0;
 #X connect 1 0 2 0;
 #X connect 1 0 10 0;
@@ -59,6 +60,7 @@
 #X connect 16 3 17 0;
 #X connect 17 0 26 0;
 #X connect 19 0 37 0;
+#X connect 19 0 38 0;
 #X connect 19 1 16 0;
 #X connect 20 0 1 1;
 #X connect 21 0 20 0;
