@@ -23,12 +23,15 @@ El patch está basado en un sistema que utiliza Gem para visualizar un video MP4
 
 ## Proximas etapas
 Este proyecto es una simple prueba, pero a futuro sería ideal agregarle nuevos features que permitan crear piezas visuales de forma mas comoda y rapida, entre ellos:
-- UI intuitiva que permite elegir el archivo y la manipulación de parámetros a través de sliders
 - Opción para obtener un render del output del procesamiento en un archivo nuevo
 - Posibilidad de cargar múltiples videos e iterar entre ellos
-- Adaptacion a resolucion de aspecto automatica
 - Carga y procesamiento de audio del video
-- Sincronización vía BPM/OSC/MIDI
+
+## Changelog
+### V7
+- UI intuitiva que permite elegir el archivo y la manipulación de parámetros a través de sliders
+- Adaptacion a resolucion automatica
+- Sincronización vía OSC
 
 ## Instalacion
 La versión de Pure Data en la que fue esto testeado es la `0.52.2`, pero debería funcionar en versiones futuras que soporten `Gem` sin problema.
