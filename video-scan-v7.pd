@@ -1,4 +1,4 @@
-#N canvas 686 303 278 285 12;
+#N canvas 975 215 285 288 12;
 #X declare -lib Gem;
 #X obj 13 11 declare -lib Gem;
 #N canvas 572 117 676 417 video-player 0;
@@ -127,6 +127,7 @@
 #X obj 15 248 s bpm;
 #X floatatom 15 224 4 0 0 0 - - - 0;
 #X obj 18 203 hsl 100 15 0 1000 0 1 empty empty empty -2 -10 0 12 #fcfcfc #000000 #000000 1300 1;
+#X obj 142 213 pix_record;
 #X connect 9 0 8 0;
 #X connect 10 0 9 0;
 #X coords 0 0 1 1 85 60 0;
