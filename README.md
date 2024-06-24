@@ -23,7 +23,7 @@ El patch está basado en un sistema que utiliza Gem para visualizar un video MP4
 
 ## Proximas etapas
 Este proyecto es una simple prueba, pero a futuro sería ideal agregarle nuevos features que permitan crear piezas visuales de forma mas comoda y rapida, entre ellos:
-- Posibilidad de cargar múltiples videos e iterar entre ellos
+- Posibilidad de cargar múltiples videos e iterar entre ellos de forma euclidiana
 - Opción para obtener un render del output del procesamiento en un archivo nuevo  [research](https://forum.pdpatchrepo.info/topic/9836/gem-how-to-save-video)
 - Carga y procesamiento de audio del video [research](https://forum.pdpatchrepo.info/topic/8940/manipulate-video-with-sound)
 
